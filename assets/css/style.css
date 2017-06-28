@@ -1,0 +1,36 @@
+html,body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Khula', sans-serif;
+    background-color: ghostwhite;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.flex-content {
+    vertical-align: middle;
+    width: 280px;
+}
+
+.head {
+    height: 80px;
+    border-top-left-radius: 44px;
+    border-top-right-radius: 44px;
+}
+
+.content {
+    height: 200px;
+    padding: 9% 7% 40% 7%;
+    border-bottom-left-radius: 44px;
+    border-bottom-right-radius: 44px;
+}
+
+.screen-case {
+    height: 42px;
+}
